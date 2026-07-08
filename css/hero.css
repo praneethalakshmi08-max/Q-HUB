@@ -1,0 +1,15 @@
+.hero {
+  display: grid; grid-template-columns: 1.1fr 1fr; gap: 40px; align-items: center;
+  min-height: 92vh; padding-top: 140px;
+}
+.hero-tag { display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px; border: 1px solid var(--line); border-radius: 100px; font-size: 11px; margin-bottom: 22px; }
+.hero h1 { font-size: clamp(34px, 5vw, 58px); line-height: 1.08; margin-bottom: 20px; }
+.hero h1 .grad { background: linear-gradient(90deg, var(--cyan), var(--violet)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.hero p.sub { color: var(--text-dim); font-size: 16px; max-width: 480px; line-height: 1.7; margin-bottom: 30px; }
+
+/* Stats Strip */
+.stripe { display: flex; gap: 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.stripe div { flex: 1; padding: 22px 20px; text-align: center; border-right: 1px solid var(--line); }
+.stripe div:last-child { border-right: none; }
+.stripe .num { font-family: 'Orbitron', sans-serif; font-size: 26px; color: var(--cyan); }
+.stripe .lbl { font-size: 11px; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; letter-spacing: 0.08em; margin-top: 4px; }
