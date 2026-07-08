@@ -51,7 +51,7 @@ Q-HUB
 |       |--blochsphere.png
 |       |--quiz.png
 |       |--ai-assistant.png
-|       |--dashboard.png
+       
 ```
 ## Homepage
 ![Homepage](screenshots/homepage.png)
@@ -71,8 +71,6 @@ Q-HUB
 ## AI-assistant
 ![AI-assistant](screenshots/ai-assistant.png)
 
-## Dashboard
-![Dashboard](screenshots/dashboard.png)
 
 ## Installation:
  Clone the repository
