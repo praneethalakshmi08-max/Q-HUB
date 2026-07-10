@@ -1,7 +1,7 @@
-# Q-HUB
-An Iinteractive Quantum Learning Platform
+# visor_quantum
+An interactive Quantum Learning Platform
 
-  Q-HUB is a browser-based educational platform that helps beginners learn quantum computing through interative visualizations, simulations, structured learning paths, quizzes, and AI-assisted guidance. The platform focuses on making complex quantum concepts easier to understand by combining theory with hands-on exploration.
+  visor_quantum is a browser-based educational platform that helps beginners learn quantum computing through interative visualizations, simulations, structured learning paths, quizzes, and AI-assisted guidance. The platform focuses on making complex quantum concepts easier to understand by combining theory with hands-on exploration.
 
 ## Problem Statement:
    Learning quantum computing is difficult for brginners due to several challenges:
@@ -11,7 +11,7 @@ An Iinteractive Quantum Learning Platform
     - Heavy focus on theory with minimal practical interaction.
     - Difficulty understanding quantum gates and state transformations.
     - Lack of a structured learning roadmap.
-    Q-HUB addresses these challenges by providing interactive simulations, visual learning, guided learning paths, and self-assessment tools.
+    Visor_quantum addresses these challenges by providing interactive simulations, visual learning, guided learning paths, and self-assessment tools.
 
 ## Features:
   - Interactive 3D Bloch Sphere Simulator
@@ -41,7 +41,7 @@ An Iinteractive Quantum Learning Platform
 
 ## Screenshots
 ```
-Q-HUB
+Visor_quantum
 |
 |--README.md
 |--Screenshots
@@ -75,11 +75,11 @@ Q-HUB
 ## Installation:
  Clone the repository
  ```bash
-  git clone https://github.com/[praneethalakshmi08-max]/Q-HUB.git
+  git clone https://github.com/[praneethalakshmi08-max]/Visor_quantum.git
 ```
  Naviagte to the project directory: 
 ```bash
-Cd Q-HUB
+Cd Visor_quantum
 ```
 ## How to Run
    - Option 1 (Recommended)
@@ -96,7 +96,7 @@ Cd Q-HUB
 ## Project Structure:
 
 ```text
-Q-HUB/
+visor_quantum/
   |-index.html
   |--css/
   |    |--style.css
