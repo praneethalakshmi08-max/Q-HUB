@@ -52,15 +52,15 @@ The platform is designed around the following learning process:
 1. learn Fundamentals
   - Introduces the basic concepts of qubits, quantum states, and essential mathematics.
 2. Visualize Concepts
-  - Uses interactive 3D Bloch Sphere simulations to help learners understand abstract quantum           states and gate operations.
+  - Uses interactive 3D Bloch Sphere simulations to help learners understand abstract quantum states and gate operations.
 3. Practice Through Interaction
-  - Allows users to experiment with quantum gates and mathematical operations using interactive         simulations.
+  - Allows users to experiment with quantum gates and mathematical operations using interactive simulations.
 4. Reinforce Learning
-  - Provides quizzes with immediate feedback to assess undersatnding and strengthen conceptual           knowledge.
+  - Provides quizzes with immediate feedback to assess undersatnding and strengthen conceptual knowledge.
 5. AI-Assisted Guidance
-   - Offers an AI learning assistant that answers questions and provides explanations when               learners need additional support.
+  - Offers an AI learning assistant that answers questions and provides explanations when learners need additional support.
 6. Progressive Learning Path
-    - Organizes content from beginner to itermediate topics, ensuring learners build a strong             foundation before moving to advanced concepts.
+  - Organizes content from beginner to itermediate topics, ensuring learners build a strong foundation before moving to advanced concepts.
          
 ## Technologies Used:
 ## Frontend
@@ -179,7 +179,7 @@ Live Demo
 ## Demo video
 
 ## User-Guide
-[User-guide](docs/User-Guide.docx)
+[User-guide](docs/user-Guide.docx)
 
 ## License
    This project was developed as part of the WISER Summer Program for educational purpose.
