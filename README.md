@@ -144,12 +144,10 @@ visor_quantum/
   |    |--quiz.js
   |    |--aiAssistant.js
   |
-  |--assets/
-  |      |--images/
-  |      |--icons/
-  |
   |--docs/
   |     |--screenshots/
+  |     |--reportdocx
+  |     |--User Guide 
   |
   |--README.md
   ```
