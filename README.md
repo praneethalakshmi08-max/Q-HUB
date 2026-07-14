@@ -76,37 +76,23 @@ The platform is designed around the following learning process:
 ## Deployment
 - Netlify
 
-## Screenshots
-```
-Visor_quantum
-|
-|--README.md
-|--Screenshots
-|       |--homepage.png
-|       |--math-playground.png 
-|       |--learning-path.png 
-|       |--blochsphere.png
-|       |--quiz.png
-|       |--ai-assistant.png
-       
-```
 ## Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](docs/screenshots/homepage.png)
 
 ## Bloch Sphere Simulator
-![Bloch Sphere](screenshots/bloch-sphere.png)
+![Bloch Sphere](docs/screenshots/bloch-sphere.png)
 
 ## Mathematics Playground
-![Math Playground](screenshots/math-playground.png)
+![Math Playground](docs/screenshots/math-playground.png)
 
 ## Learning Path
-![Learning Path](screenshots/learning-path.png)
+![Learning Path](docs/screenshots/learning-path.png)
 
 ## Quiz
-![Quiz](screenshots/quiz.png)
+![Quiz](docs/screenshots/quiz.png)
 
 ## AI-assistant
-![AI-assistant](screenshots/ai-assistant.png)
+![AI-assistant](docs/screenshots/ai-assistant.png)
 
 
 ## Installation:
